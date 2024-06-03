@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**JugSl/JugSl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é Eduardo Verger
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sou um estudante da Escola Pública de São paulo
+- Estou realizando o curso de Robótica do Alura
+- Utilizo a linguagem JavaScript
+-Esse espaço é para organização e compartilhamento dos meus projetos.
+
+### Entre em contato comigo 📫
+
+00001108085969sp@al.educacao.sp.gov.br
+
+
+![](
